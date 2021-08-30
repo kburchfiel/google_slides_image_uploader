@@ -3,8 +3,9 @@
 # Released under the MIT License
 # (This code makes extensive use of various Google code excerpts. I believe these snippets all use the Apache 2.0 license.)
 
-# For additional background on this program, see the slide_update_script.ipynb file, which applies this code to add images to a sample presentation.
+# Github repository link: https://github.com/kburchfiel/google_slides_image_uploader
 
+# For additional background on this program, see the slide_update_script.ipynb file, which applies this code to add images to a sample presentation.
 
 # This file contains various functions that allow images to be inserted into Google Slides presentations. These functions include:
 # 
